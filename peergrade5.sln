@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "peergrade5", "peergrade5\peergrade5.csproj", "{6362636D-FB7F-4BBC-AB26-299594B5C272}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6362636D-FB7F-4BBC-AB26-299594B5C272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6362636D-FB7F-4BBC-AB26-299594B5C272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6362636D-FB7F-4BBC-AB26-299594B5C272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6362636D-FB7F-4BBC-AB26-299594B5C272}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7245582B-9E38-4AFA-B83A-66D58C6ACF59}
+	EndGlobalSection
+EndGlobal

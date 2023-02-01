@@ -1,0 +1,25 @@
+﻿<Window x:Class="peergrade5.NewTree"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:peergrade5"
+        mc:Ignorable="d"
+        Title="NewTree" Height="450" Width="800">
+    <Grid>
+        <Slider x:Name="Number" HorizontalAlignment="Left" Margin="250,68,0,0" VerticalAlignment="Top" Width="290" Height="21" Minimum="1" Maximum="10" IsSnapToTickEnabled="True" TickFrequency="1" ValueChanged="Slider_ValueChanged"/>
+        <TextBox HorizontalAlignment="Left" Margin="468,45,0,0" Text="{Binding ElementName=Number, Path=Value}" TextWrapping="Wrap" VerticalAlignment="Top" Width="72"/>
+        <TextBox HorizontalAlignment="Left" Margin="250,45,0,0" Text="Выберите глубину рекурсии:" TextWrapping="Wrap" VerticalAlignment="Top" Width="213"/>
+        <TextBox HorizontalAlignment="Left" Margin="250,119,0,0" Text="Выберите отношение длин отрезков:" TextWrapping="Wrap" VerticalAlignment="Top" Width="213"/>
+        <Slider x:Name="Comparison" HorizontalAlignment="Left" Margin="250,142,0,0" VerticalAlignment="Top" Width="290" Minimum="0.5" Maximum="0.7" IsSnapToTickEnabled="True" TickFrequency="0.05" ValueChanged="Comparison_ValueChanged" />
+        <TextBox HorizontalAlignment="Left" Margin="468,119,0,0" Text="{Binding ElementName=Comparison, Path=Value}" TextWrapping="Wrap" VerticalAlignment="Top" Width="72"/>
+        <TextBox HorizontalAlignment="Left" Margin="250,188,0,0" Text="Выберите значение 1-го угла:" TextWrapping="Wrap" VerticalAlignment="Top" Width="213"/>
+        <Slider x:Name="Angle1" HorizontalAlignment="Left" Margin="250,211,0,0" VerticalAlignment="Top" Width="290" Minimum="15" Maximum="75" IsSnapToTickEnabled="True" TickFrequency="15"/>
+        <TextBox HorizontalAlignment="Left" Margin="468,188,0,0" Text="{Binding ElementName=Angle1, Path=Value}" TextWrapping="Wrap" VerticalAlignment="Top" Width="72"/>
+        <Slider x:Name="Angle2" HorizontalAlignment="Left" Margin="250,286,0,0" VerticalAlignment="Top" Width="290" Minimum="15" Maximum="75" IsSnapToTickEnabled="True" TickFrequency="15"/>
+        <TextBox HorizontalAlignment="Left" Margin="250,263,0,0" Text="Выберите значение 2-го угла:" TextWrapping="Wrap" VerticalAlignment="Top" Width="213"/>
+        <TextBox HorizontalAlignment="Left" Margin="468,263,0,0" Text="{Binding ElementName=Angle2, Path=Value}" TextWrapping="Wrap" VerticalAlignment="Top" Width="72"/>
+        <Button x:Name="ButtonSave" Content="Сохранить" HorizontalAlignment="Center" Margin="0,342,0,0" VerticalAlignment="Top" Height="40" Width="144" Click="Button_Click"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,84 @@
+D:\ПрогаВШЭ\C#\PeerGrade\peergrade5\peergrade5\bin\Debug\net5.0-windows\peergrade5.exe
+D:\ПрогаВШЭ\C#\PeerGrade\peergrade5\peergrade5\bin\Debug\net5.0-windows\peergrade5.deps.json
+D:\ПрогаВШЭ\C#\PeerGrade\peergrade5\peergrade5\bin\Debug\net5.0-windows\peergrade5.runtimeconfig.json
+D:\ПрогаВШЭ\C#\PeerGrade\peergrade5\peergrade5\bin\Debug\net5.0-windows\peergrade5.runtimeconfig.dev.json
+D:\ПрогаВШЭ\C#\PeerGrade\peergrade5\peergrade5\bin\Debug\net5.0-windows\peergrade5.dll
+D:\ПрогаВШЭ\C#\PeerGrade\peergrade5\peergrade5\bin\Debug\net5.0-windows\ref\peergrade5.dll
+D:\ПрогаВШЭ\C#\PeerGrade\peergrade5\peergrade5\bin\Debug\net5.0-windows\peergrade5.pdb
+D:\ПрогаВШЭ\C#\PeerGrade\peergrade5\peergrade5\obj\Debug\net5.0-windows\peergrade5.csproj.AssemblyReference.cache
+D:\ПрогаВШЭ\C#\PeerGrade\peergrade5\peergrade5\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\ПрогаВШЭ\C#\PeerGrade\peergrade5\peergrade5\obj\Debug\net5.0-windows\App.g.cs
+D:\ПрогаВШЭ\C#\PeerGrade\peergrade5\peergrade5\obj\Debug\net5.0-windows\peergrade5_MarkupCompile.cache
+D:\ПрогаВШЭ\C#\PeerGrade\peergrade5\peergrade5\obj\Debug\net5.0-windows\peergrade5_MarkupCompile.lref
+D:\ПрогаВШЭ\C#\PeerGrade\peergrade5\peergrade5\obj\Debug\net5.0-windows\MainWindow.baml
+D:\ПрогаВШЭ\C#\PeerGrade\peergrade5\peergrade5\obj\Debug\net5.0-windows\peergrade5.g.resources
+D:\ПрогаВШЭ\C#\PeerGrade\peergrade5\peergrade5\obj\Debug\net5.0-windows\peergrade5.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПрогаВШЭ\C#\PeerGrade\peergrade5\peergrade5\obj\Debug\net5.0-windows\peergrade5.AssemblyInfoInputs.cache
+D:\ПрогаВШЭ\C#\PeerGrade\peergrade5\peergrade5\obj\Debug\net5.0-windows\peergrade5.AssemblyInfo.cs
+D:\ПрогаВШЭ\C#\PeerGrade\peergrade5\peergrade5\obj\Debug\net5.0-windows\peergrade5.csproj.CoreCompileInputs.cache
+D:\ПрогаВШЭ\C#\PeerGrade\peergrade5\peergrade5\obj\Debug\net5.0-windows\peergrade5.dll
+D:\ПрогаВШЭ\C#\PeerGrade\peergrade5\peergrade5\obj\Debug\net5.0-windows\ref\peergrade5.dll
+D:\ПрогаВШЭ\C#\PeerGrade\peergrade5\peergrade5\obj\Debug\net5.0-windows\peergrade5.pdb
+D:\ПрогаВШЭ\C#\PeerGrade\peergrade5\peergrade5\obj\Debug\net5.0-windows\peergrade5.genruntimeconfig.cache
+D:\ПрогаВШЭ\C#\PeerGrade\peergrade5\peergrade5\obj\Debug\net5.0-windows\NewTree.g.cs
+D:\ПрогаВШЭ\C#\PeerGrade\peergrade5\peergrade5\obj\Debug\net5.0-windows\NewTree.baml
+D:\ПрогаВШЭ\C#\PeerGrade\peergrade5\peergrade5\obj\Debug\net5.0-windows\Koha.g.cs
+D:\ПрогаВШЭ\C#\PeerGrade\peergrade5\peergrade5\obj\Debug\net5.0-windows\Koha.baml
+D:\ПрогаВШЭ\C#\PeerGrade\peergrade5\peergrade5\obj\Debug\net5.0-windows\Kantor.g.cs
+D:\ПрогаВШЭ\C#\PeerGrade\peergrade5\peergrade5\obj\Debug\net5.0-windows\Kantor.baml
+D:\ПрогаВШЭ\PeerGrade\peergrade5\peergrade5\bin\Debug\net5.0-windows\peergrade5.exe
+D:\ПрогаВШЭ\PeerGrade\peergrade5\peergrade5\bin\Debug\net5.0-windows\peergrade5.deps.json
+D:\ПрогаВШЭ\PeerGrade\peergrade5\peergrade5\bin\Debug\net5.0-windows\peergrade5.runtimeconfig.json
+D:\ПрогаВШЭ\PeerGrade\peergrade5\peergrade5\bin\Debug\net5.0-windows\peergrade5.runtimeconfig.dev.json
+D:\ПрогаВШЭ\PeerGrade\peergrade5\peergrade5\bin\Debug\net5.0-windows\peergrade5.dll
+D:\ПрогаВШЭ\PeerGrade\peergrade5\peergrade5\bin\Debug\net5.0-windows\ref\peergrade5.dll
+D:\ПрогаВШЭ\PeerGrade\peergrade5\peergrade5\bin\Debug\net5.0-windows\peergrade5.pdb
+D:\ПрогаВШЭ\PeerGrade\peergrade5\peergrade5\obj\Debug\net5.0-windows\peergrade5.csproj.AssemblyReference.cache
+D:\ПрогаВШЭ\PeerGrade\peergrade5\peergrade5\obj\Debug\net5.0-windows\Kantor.g.cs
+D:\ПрогаВШЭ\PeerGrade\peergrade5\peergrade5\obj\Debug\net5.0-windows\Koha.g.cs
+D:\ПрогаВШЭ\PeerGrade\peergrade5\peergrade5\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\ПрогаВШЭ\PeerGrade\peergrade5\peergrade5\obj\Debug\net5.0-windows\NewTree.g.cs
+D:\ПрогаВШЭ\PeerGrade\peergrade5\peergrade5\obj\Debug\net5.0-windows\App.g.cs
+D:\ПрогаВШЭ\PeerGrade\peergrade5\peergrade5\obj\Debug\net5.0-windows\peergrade5_MarkupCompile.cache
+D:\ПрогаВШЭ\PeerGrade\peergrade5\peergrade5\obj\Debug\net5.0-windows\peergrade5_MarkupCompile.lref
+D:\ПрогаВШЭ\PeerGrade\peergrade5\peergrade5\obj\Debug\net5.0-windows\Kantor.baml
+D:\ПрогаВШЭ\PeerGrade\peergrade5\peergrade5\obj\Debug\net5.0-windows\Koha.baml
+D:\ПрогаВШЭ\PeerGrade\peergrade5\peergrade5\obj\Debug\net5.0-windows\MainWindow.baml
+D:\ПрогаВШЭ\PeerGrade\peergrade5\peergrade5\obj\Debug\net5.0-windows\NewTree.baml
+D:\ПрогаВШЭ\PeerGrade\peergrade5\peergrade5\obj\Debug\net5.0-windows\peergrade5.g.resources
+D:\ПрогаВШЭ\PeerGrade\peergrade5\peergrade5\obj\Debug\net5.0-windows\peergrade5.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПрогаВШЭ\PeerGrade\peergrade5\peergrade5\obj\Debug\net5.0-windows\peergrade5.AssemblyInfoInputs.cache
+D:\ПрогаВШЭ\PeerGrade\peergrade5\peergrade5\obj\Debug\net5.0-windows\peergrade5.AssemblyInfo.cs
+D:\ПрогаВШЭ\PeerGrade\peergrade5\peergrade5\obj\Debug\net5.0-windows\peergrade5.csproj.CoreCompileInputs.cache
+D:\ПрогаВШЭ\PeerGrade\peergrade5\peergrade5\obj\Debug\net5.0-windows\peergrade5.dll
+D:\ПрогаВШЭ\PeerGrade\peergrade5\peergrade5\obj\Debug\net5.0-windows\ref\peergrade5.dll
+D:\ПрогаВШЭ\PeerGrade\peergrade5\peergrade5\obj\Debug\net5.0-windows\peergrade5.pdb
+D:\ПрогаВШЭ\PeerGrade\peergrade5\peergrade5\obj\Debug\net5.0-windows\peergrade5.genruntimeconfig.cache
+D:\ПрогаВШЭ\Прога C#\PeerGrade\peergrade 5\peergrade5\bin\Debug\net5.0-windows\peergrade5.exe
+D:\ПрогаВШЭ\Прога C#\PeerGrade\peergrade 5\peergrade5\bin\Debug\net5.0-windows\peergrade5.deps.json
+D:\ПрогаВШЭ\Прога C#\PeerGrade\peergrade 5\peergrade5\bin\Debug\net5.0-windows\peergrade5.runtimeconfig.json
+D:\ПрогаВШЭ\Прога C#\PeerGrade\peergrade 5\peergrade5\bin\Debug\net5.0-windows\peergrade5.runtimeconfig.dev.json
+D:\ПрогаВШЭ\Прога C#\PeerGrade\peergrade 5\peergrade5\bin\Debug\net5.0-windows\peergrade5.dll
+D:\ПрогаВШЭ\Прога C#\PeerGrade\peergrade 5\peergrade5\bin\Debug\net5.0-windows\ref\peergrade5.dll
+D:\ПрогаВШЭ\Прога C#\PeerGrade\peergrade 5\peergrade5\bin\Debug\net5.0-windows\peergrade5.pdb
+D:\ПрогаВШЭ\Прога C#\PeerGrade\peergrade 5\peergrade5\obj\Debug\net5.0-windows\peergrade5.csproj.AssemblyReference.cache
+D:\ПрогаВШЭ\Прога C#\PeerGrade\peergrade 5\peergrade5\obj\Debug\net5.0-windows\Kantor.g.cs
+D:\ПрогаВШЭ\Прога C#\PeerGrade\peergrade 5\peergrade5\obj\Debug\net5.0-windows\Koha.g.cs
+D:\ПрогаВШЭ\Прога C#\PeerGrade\peergrade 5\peergrade5\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\ПрогаВШЭ\Прога C#\PeerGrade\peergrade 5\peergrade5\obj\Debug\net5.0-windows\NewTree.g.cs
+D:\ПрогаВШЭ\Прога C#\PeerGrade\peergrade 5\peergrade5\obj\Debug\net5.0-windows\App.g.cs
+D:\ПрогаВШЭ\Прога C#\PeerGrade\peergrade 5\peergrade5\obj\Debug\net5.0-windows\peergrade5_MarkupCompile.cache
+D:\ПрогаВШЭ\Прога C#\PeerGrade\peergrade 5\peergrade5\obj\Debug\net5.0-windows\peergrade5_MarkupCompile.lref
+D:\ПрогаВШЭ\Прога C#\PeerGrade\peergrade 5\peergrade5\obj\Debug\net5.0-windows\Kantor.baml
+D:\ПрогаВШЭ\Прога C#\PeerGrade\peergrade 5\peergrade5\obj\Debug\net5.0-windows\Koha.baml
+D:\ПрогаВШЭ\Прога C#\PeerGrade\peergrade 5\peergrade5\obj\Debug\net5.0-windows\MainWindow.baml
+D:\ПрогаВШЭ\Прога C#\PeerGrade\peergrade 5\peergrade5\obj\Debug\net5.0-windows\NewTree.baml
+D:\ПрогаВШЭ\Прога C#\PeerGrade\peergrade 5\peergrade5\obj\Debug\net5.0-windows\peergrade5.g.resources
+D:\ПрогаВШЭ\Прога C#\PeerGrade\peergrade 5\peergrade5\obj\Debug\net5.0-windows\peergrade5.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПрогаВШЭ\Прога C#\PeerGrade\peergrade 5\peergrade5\obj\Debug\net5.0-windows\peergrade5.AssemblyInfoInputs.cache
+D:\ПрогаВШЭ\Прога C#\PeerGrade\peergrade 5\peergrade5\obj\Debug\net5.0-windows\peergrade5.AssemblyInfo.cs
+D:\ПрогаВШЭ\Прога C#\PeerGrade\peergrade 5\peergrade5\obj\Debug\net5.0-windows\peergrade5.csproj.CoreCompileInputs.cache
+D:\ПрогаВШЭ\Прога C#\PeerGrade\peergrade 5\peergrade5\obj\Debug\net5.0-windows\peergrade5.dll
+D:\ПрогаВШЭ\Прога C#\PeerGrade\peergrade 5\peergrade5\obj\Debug\net5.0-windows\ref\peergrade5.dll
+D:\ПрогаВШЭ\Прога C#\PeerGrade\peergrade 5\peergrade5\obj\Debug\net5.0-windows\peergrade5.pdb
+D:\ПрогаВШЭ\Прога C#\PeerGrade\peergrade 5\peergrade5\obj\Debug\net5.0-windows\peergrade5.genruntimeconfig.cache
